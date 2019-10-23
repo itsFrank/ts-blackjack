@@ -1,6 +1,6 @@
 # Typescript Blackjack
 
-A super console blackjack game I made to practice for a Triplebyte interview. From start to finish it took ~1h 45m.
+A console blackjack game I made to practice for a Triplebyte interview. From start to finish it took ~1h 45m.
 
 To play just `npm i` and `ts-node blackjack.ts`
 
